@@ -38,8 +38,7 @@ Now goto angular project
 
 ### sumFunc(){
 ###    call.makeCall({
-###       number:"+xxxxxxxxxxx",
-###       text:"Hello World!\n"
+###       number:"+xxxxxxxxxxx"       
 ###     })
 ###  }
 
